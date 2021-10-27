@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lvekua
 - 👀 I’m interested in front-end development and design
-- 🌱 I’m currently learning things
+- 🌱 I’m always learning things
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me lvekua@gmail.com
 
