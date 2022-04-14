@@ -7,7 +7,7 @@
 
 # LEVAN VEKUA
 
-212.203.6800 | lvekua@gmail.com | Brooklyn, NY 11235 | [levanvekua.com](https://levanvekua.com)
+lvekua@gmail.com | Brooklyn, NY 11235 | [levanvekua.com](https://levanvekua.com)
 
 ### SUMMARY
 Offering 10+ years of progressive experience in owning web-based projects from concept and design through testing, implementation and client updates. 
