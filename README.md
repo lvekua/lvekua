@@ -3,6 +3,7 @@
 - 🌱 I’m always learning things
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me lvekua@gmail.com
+- 👇 Resume
 
 
 # LEVAN VEKUA
