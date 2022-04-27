@@ -1,5 +1,12 @@
 Hi 👋 My name is Levan Vekua
-============================Web Designer & Developer------------------------I design and build websites that are visually minimal, easy to use, and deliver an exceptional end-user experience.* 🌍  I'm based in New York* ✉️  You can contact me at [lvekua@gmail.com](mailto:lvekua@gmail.com)* 🧠  I'm learning HYDROGEN* 🤝  I'm open to collaborating on any web design or development projects
+============================
+Web Designer & Developer
+------------------------
+I design and build websites that are visually minimal, easy to use, and deliver an exceptional end-user experience.
+* 🌍  I'm based in New York* 
+* ✉️  You can contact me at [lvekua@gmail.com](mailto:lvekua@gmail.com)* 
+* 🧠  I'm learning HYDROGEN* 
+* 🤝  I'm open to collaborating on any web design or development projects
 
 ### Skills
 
