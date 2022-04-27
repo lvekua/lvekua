@@ -1,57 +1,15 @@
-- 👋 Hi, I’m @lvekua
-- 👀 I’m interested in front-end development and design
-- 🌱 I’m always learning things
-- 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me lvekua@gmail.com
-- 👇 Resume
+Hi 👋 My name is Levan Vekua
+============================Web Designer & Developer------------------------I design and build websites that are visually minimal, easy to use, and deliver an exceptional end-user experience.* 🌍  I'm based in New York* ✉️  You can contact me at [lvekua@gmail.com](mailto:lvekua@gmail.com)* 🧠  I'm learning HYDROGEN* 🤝  I'm open to collaborating on any web design or development projects
 
+### Skills
 
-# LEVAN VEKUA
+<p align="left"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a></p>
+### Socials<p align="left"> <a href="https://www.github.com/lvekua" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/lvekua" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/lvekua" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-lvekua@gmail.com | Brooklyn, NY 11235 | [levanvekua.com](https://levanvekua.com)
+### Badges
 
-### SUMMARY
-Offering 10+ years of progressive experience in owning web-based projects from concept and design through testing, implementation and client updates. 
-Diligent about producing exceptionally clean, strong and secure code. 
-Successful at achieving browser, device and operating system compatibility objectives
-while satisfying client desires and producing robust, sophisticated designs.
+<b>My GitHub Stats</b>
 
-### SKILLS
-- Design: Photoshop, Illustrator, XD, Figma.
-- Code: HTML5, CSS3, JavaScript.
-- Build: Magento M1-M2, Shopify, Wordpress, Salesforce.
-- Process: Sass, Gulp, Grunt.
-- Deploy: Git, GitHub, Capistrano, Jenkins.
+<a href="http://www.github.com/lvekua"><img src="https://github-readme-stats.vercel.app/api?username=lvekua&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="lvekua's GitHub stats" /></a>
 
-### EXPERIENCE
-**Front End Developer, R/West,** *December 2020 - Current* | Portland, OR
-- Working on multiple projects and platforms: Magento M2, Shopify+, Wordpress.
-- Performing UI updates, content maintenance and optimization.
-- Developing marketing campaigns, conducting QA and reporting.
-- Bringing mock-ups to life with HTML, CSS and JavaScript.
-- Designing visual and graphic assets to use on multiple platforms and resolutions.
-
-**Front End Developer, OAK,** *February 2010 - May 2019* | Brooklyn, NY
-- Magento M1 e-commerce site design update and maintenance.
-- User journey and usability enhancement, performance and SEO optimization.
-- Responsive landing page designs, Wordpress blog redesign and Ul improvements.
-- Improved and designed layouts to enhance site usability and performance.
-
-**Front End Developer, Nili Lotan,** *August 2017 - October 2018* | New York, NY
-- Website redesign, UI/UX updates for mobile/desktop screens.
-- Third party plugin integration and customization.
-- Collaborated with project and product managers to set goals and scope projects.
-- Translated mock-ups to functional HTML CSS and JavaScript interfaces.
-
-**Front End Developer, Alexander Wang,** *May 2016 - September 2016* | New York, NY
-- Worked with product manager to develop responsive lookbook layouts.
-- Applied custom script for interface animation and end-user interaction.
-- Collaborated with product managers and designers to implement UI features.
-
-### EDUCATION AND TRAINING
-**Associate Web Master**
-New England Tech January 2003
-<!---
-lvekua/lvekua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="http://www.github.com/lvekua"><img src="https://activity-graph.herokuapp.com/graph?username=lvekua&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
